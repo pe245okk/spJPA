@@ -20,4 +20,4 @@
 </table>
 <hr>
 
-超連結[Google](www.google.com)
+超連結[Google](www.google.com.tw)
