@@ -8,7 +8,7 @@
 ###### =h6 <!-- 我是註解 -->
 <hr>
 
-<table align= center>
+<table align = center>
   <tr>
     <td>格子無法調整大小</td>
     <td>根據字數自動調整</td>
